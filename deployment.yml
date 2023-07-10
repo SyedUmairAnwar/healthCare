@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: javawebappcontainer
-        image: syedumairanwar/healthCare
+        image: syedumairanwar/health-care
         ports:
         - containerPort: 8082
 ---
